@@ -1,0 +1,1311 @@
+************ : log created on : Friday December 17 2021 @ 14:59:38
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0.19043)
+00:00:00.000 : [sys] Command line:  Y:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe
+00:00:00.000 : [cpu] CPU0: AuthenticAMD [AMD Ryzen 5 3600 6-Core Processor              ] with 6 cores (12 threads) at ~3593MHz.
+00:00:00.000 : [sys] using 4 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 3 real-time worker threads.
+00:00:00.000 : [sys] using QPC / HPET timer, frequency 10000000Hz
+00:00:00.000 : [mem] physical total: 16318M
+00:00:00.000 : [mem] physical avail: 8102M
+00:00:00.001 : [mem] virtual total: 134217727M
+00:00:00.001 : [mem] virtual avail: 134213024M
+00:00:00.001 : [mem] Trying to allocate memory pool (2097152K)
+00:00:00.001 : [mem] Allocated 5 temporary loading buffer(s)
+00:00:00.042 : [xinput] Using XInput version 1.4.0
+00:00:00.115 : [hashfs] effect.scs: Created and validated, 14066 entries (A322A89836FDEC2DF06FD62FD1733C31580DAA39A895A20C01D9D083EB42F231)
+00:00:00.115 : [fs] device effect.scs mounted.
+00:00:00.263 : [hashfs] base.scs: Created and validated, 119619 entries (AD878D613566B8DF6C12C49BDE4308C437604B75F34228896251FF2468C75A32)
+00:00:00.263 : [fs] device base.scs mounted.
+00:00:00.285 : [hashfs] core.scs: Created and validated, 9 entries (1E785E95B0DA19B6B418B5A230FAE2E0CA5275B3FFD82A29ACB42CD7A6DF46C4)
+00:00:00.285 : [fs] device core.scs mounted.
+00:00:00.785 : [hashfs] def.scs: Created and validated, 26240 entries (B4A4295202E8075A5AE520B4694CC815A9E1FD2EB3B945A046DBF69CD78167F4)
+00:00:00.785 : [fs] device def.scs mounted.
+00:00:01.369 : [hashfs] locale.scs: Created and validated, 214 entries (1E04F9AFFD94E964BBDCD21E4A5201ACEB0652EAC7F402D79DDBAEA825FAC040)
+00:00:01.369 : [fs] device locale.scs mounted.
+00:00:01.383 : [hashfs] base_cfg.scs: Created and validated, 1 entries (299CB6B5A49C33BECA197E17CF91B6B683E015354E8A22EB9DEBA0C0D2863FF9)
+00:00:01.383 : [fs] device base_cfg.scs mounted.
+00:00:01.383 : [ufs] Home directory: 'C:/Users/yihit/OneDrive/Documents/Euro Truck Simulator 2'.
+00:00:01.383 : [fs] device C:/Users/yihit/OneDrive/Documents/Euro Truck Simulator 2 mounted.
+00:00:01.428 : [hashfs] dlc_actros_tuning.scs: Created and validated, 2612 entries (66609A9A684379D2E4B924916DCD2EEB440F804E4519E3BECCB2A2A220FB1629)
+00:00:01.460 : [hashfs] dlc_christmas.scs: Created and validated, 2931 entries (E41113958F21E035B4FA7DF3FC22B19D7FBE7957482261678AB407E1231410EA)
+00:00:01.539 : [hashfs] dlc_daf_2021.scs: Created and validated, 1862 entries (8D27F600A0BFDC4F204A6A866A79BF5885B79B65C641593E54054D7AE4823FF7)
+00:00:01.569 : [hashfs] dlc_daf_tuning_pack.scs: Created and validated, 2542 entries (82C92E048E92AA414EE53948CBC94FA062F9EBECB14337E467C52C70D72D10A5)
+00:00:01.590 : [hashfs] dlc_dragon.scs: Created and validated, 709 entries (453421C2899F453BB535E73E9D2B8D208C93653B39C2643C91D5A45D2ECD4999)
+00:00:01.618 : [hashfs] dlc_fantasy.scs: Created and validated, 1710 entries (8F3F7D92C43942448EDD8D3500AB3FFDD337657A138E7CD47725CBA37609C3C0)
+00:00:01.631 : [hashfs] dlc_flags_at.scs: Created and validated, 1114 entries (548592D0D25ABBF61D684B5380B48403C1B2AEA2DDA4A68987EF76AFCAD63CF6)
+00:00:01.653 : [hashfs] dlc_flags_aus.scs: Created and validated, 1335 entries (B74C31F32FBC5A7D6D8C8D199F273375FDA0DD21B57B2B93EDFC933086E6F61A)
+00:00:01.676 : [hashfs] dlc_flags_be.scs: Created and validated, 1413 entries (D6C6AA4146F9438752ADA2FC28590FBE7B1F182C3371293DF313FC942D1E4A3F)
+00:00:01.696 : [hashfs] dlc_flags_bg.scs: Created and validated, 1159 entries (88D4494C80BC86CFBDF1760AF395856C0F6D66EA884057FE1353A80FCDBB5BBC)
+00:00:01.721 : [hashfs] dlc_flags_bz.scs: Created and validated, 1154 entries (608624B8C44C957339E52009BCF463BF32766ADEE201F34960BC194BFE4CB095)
+00:00:01.748 : [hashfs] dlc_flags_ca.scs: Created and validated, 1173 entries (6C60B57E651BD6B8450DDA1ED401C5BE8521D1144550BB4E89555C5FCF01998B)
+00:00:01.785 : [hashfs] dlc_flags_ch.scs: Created and validated, 994 entries (A45088534156EC254FCD5A816483B470D4DBC47BCFEC2816E537EDDB709A2C16)
+00:00:01.808 : [hashfs] dlc_flags_cn.scs: Created and validated, 1044 entries (E74B786924C4DD35FA68C6A0A1A37D13E7A9ABC4B6A1125C66B2E11D8F400BE4)
+00:00:01.826 : [hashfs] dlc_flags_cz.scs: Created and validated, 1169 entries (DD730817EC7233C35A21A6AB2A162AE6B64F447128AF420CF995A0BEBA14B682)
+00:00:01.840 : [hashfs] dlc_flags_de.scs: Created and validated, 1139 entries (5972904285F9D008055C3671AA8E8F89D965C17418ACF5DBBBF7546E4CF61AFE)
+00:00:01.865 : [hashfs] dlc_flags_dk.scs: Created and validated, 1095 entries (E2EB195D33BE41D713ECE8EDA564E8AF6F595EFD2D216F92B13F4C94583083A1)
+00:00:01.896 : [hashfs] dlc_flags_ee.scs: Created and validated, 1515 entries (955F8B86303EE4F0723656EEF0FC5535B31B158FEAFCED723A4FB5562E3BEDCF)
+00:00:01.924 : [hashfs] dlc_flags_es.scs: Created and validated, 1599 entries (5621E46AB0383820FA4A6BAAB0D6EB4344423A3324249EF995DCA729DB86A33D)
+00:00:01.944 : [hashfs] dlc_flags_fi.scs: Created and validated, 1051 entries (F1F6448CDE4D883036F985DC01189DBF73A031DE5469CB829A47083D3C2C4125)
+00:00:01.954 : [hashfs] dlc_flags_fr.scs: Created and validated, 1161 entries (66A835CD34E182302D9F885B7C6919A182EA591E42DFB0016E2DC2938A12B317)
+00:00:01.979 : [hashfs] dlc_flags_hu.scs: Created and validated, 1303 entries (7447732A2614507B3D0C93E684744D8D1C48B358BD3E47795D3E97DB8A7486EC)
+00:00:02.008 : [hashfs] dlc_flags_ie.scs: Created and validated, 1154 entries (645F7053740E856006E4C1854FDEA36A0B13D39D38F6ABA4BFEF38F57900D119)
+00:00:02.028 : [hashfs] dlc_flags_it.scs: Created and validated, 1064 entries (3054CA797EC3FEA0A429AF4A39A415E7A860E89FFAD344A90F36FECD47FB6FAA)
+00:00:02.046 : [hashfs] dlc_flags_jp.scs: Created and validated, 1138 entries (BF4312BAED32A77B5FBC3DD32870E04AB60906E021A8169CFA058E55E808CD86)
+00:00:02.056 : [hashfs] dlc_flags_kr.scs: Created and validated, 1342 entries (6E5FB2338755EE43D574DF7DF646DC45748872876111DF5E56695393C4BEAD2A)
+00:00:02.084 : [hashfs] dlc_flags_lt.scs: Created and validated, 1145 entries (F42020D76386D66CA5DB669F835FF5BBD571C597FE4779C16B699823FA0A342D)
+00:00:02.109 : [hashfs] dlc_flags_lv.scs: Created and validated, 1103 entries (4DDF45C7F8A20104478DA7566EE1F457A0A07C12C32FD69350DB267FA6DC3F41)
+00:00:02.128 : [hashfs] dlc_flags_n.scs: Created and validated, 1094 entries (FCA8203EC7CD887DAE6151906B3635FF2413C27E827E051C9E5B9B8D25C0B798)
+00:00:02.151 : [hashfs] dlc_flags_nl.scs: Created and validated, 1219 entries (2169B4A11D96628E4A77604AB13F3F61EC08788A8BB97401611D9D0ECF40A329)
+00:00:02.169 : [hashfs] dlc_flags_pl.scs: Created and validated, 964 entries (39250E04203716197C8963C56FF497EAF8EE1EBE9D435635E6D6C0DB61AEE624)
+00:00:02.198 : [hashfs] dlc_flags_pt.scs: Created and validated, 1533 entries (2BE58A5915DA4287BCE18628D28A1B927FF64B930FD29A26F9C45964E02045F4)
+00:00:02.219 : [hashfs] dlc_flags_ro.scs: Created and validated, 1046 entries (1EB8D752F900E5F3EA8B8D4487E9A77B17704CA85240CA7AF08EF01857B5B82F)
+00:00:02.246 : [hashfs] dlc_flags_ru.scs: Created and validated, 1196 entries (E5832A29FA4545FDD440870A68881179C129728B6BDDCE4812FE7397116F337D)
+00:00:02.257 : [hashfs] dlc_flags_s.scs: Created and validated, 1184 entries (DB6A2E7DBD43A37AD759E93A1CEE151C239C225D44FA4C685C5D8CB753B7B457)
+00:00:02.277 : [hashfs] dlc_flags_sc.scs: Created and validated, 1219 entries (AFF4A1D6DCF99D2DFA0893F476B2ACFE10255A86E51DC6587AD67D3FE04EAC82)
+00:00:02.292 : [hashfs] dlc_flags_sk.scs: Created and validated, 1026 entries (F850F730F71CA1A7357ADCFC945CC31A736A80FFCA2CE313BBBCFC51D9C3AB6C)
+00:00:02.308 : [hashfs] dlc_flags_tr.scs: Created and validated, 1185 entries (881775B8916FD5A33B0A0EC6C486BEC7FD03C7CA15E46D70E5E53466055464ED)
+00:00:02.339 : [hashfs] dlc_flags_uk.scs: Created and validated, 1082 entries (CAE7A27FD7D825F64637B22D9B12CB90CEC9E57D7BC2238778E69727F029BBDF)
+00:00:02.363 : [hashfs] dlc_flags_us.scs: Created and validated, 1190 entries (9AC5EC10A451CDD471CA8918E5747F92BE9C8835635FC2337B553B16977CCF84)
+00:00:02.394 : [hashfs] dlc_goodyear.scs: Created and validated, 1588 entries (4133DE77D4B846456E175D45F3575B85FD4BB9C4D80389F62FD4C5573E8955C9)
+00:00:02.477 : [hashfs] dlc_halloween.scs: Created and validated, 2426 entries (5A51815FCEF860E93C528266E3208D32FB26B6E99843F1C2938EFE27A8280BD0)
+00:00:02.504 : [hashfs] dlc_heavy_cargo.scs: Created and validated, 879 entries (FC41C4EE47771E4C52848034092B15E801F16D23398C8E0317FF9A7368D9521A)
+00:00:02.528 : [hashfs] dlc_hs_schoch.scs: Created and validated, 1532 entries (CDB8CE991E535C15B1975F6883C407B98D140A735F54ABB0B31DECF092E01D3B)
+00:00:02.611 : [hashfs] dlc_krone.scs: Created and validated, 3784 entries (7AEEEA9B11F62DE771DF02F17B1F662974A2A3746CB776D1DA634DA04B5EE0EA)
+00:00:02.679 : [hashfs] dlc_lunar_new_year.scs: Created and validated, 6465 entries (CFD300AC3136C52C1F904DABC21F7A51F76087EA779950F599ACAB6418CFBBE6)
+00:00:02.710 : [hashfs] dlc_metallics.scs: Created and validated, 631 entries (E0B97DE8EECFBF9B97816CFD50C52F256B1B226F436765C15C49B8F32BA89517)
+00:00:02.731 : [hashfs] dlc_metallics2.scs: Created and validated, 725 entries (4417ADA7CBA1A1D7F327E061F6700F9C001204F2DE80CB67A68880969CBAB421)
+00:00:02.753 : [hashfs] dlc_michelin.scs: Created and validated, 1220 entries (24AFED321BEF8F7BF1CB3AA3B0A0D162332E8362C431B490B1D39F6EA76F63BE)
+00:00:02.784 : [hashfs] dlc_mighty_griffin.scs: Created and validated, 2955 entries (1E67DE331BD4A374D2C580E22711A849F157A3BEE1B27E2C9639B838A54F755D)
+00:00:02.814 : [hashfs] dlc_nature.scs: Created and validated, 2478 entries (537BFA58102A9D69FAC913D896B43116503471E4AD994C5661D4C72CDBF93382)
+00:00:02.863 : [hashfs] dlc_oversize.scs: Created and validated, 678 entries (9F631A598741E70FE1DA3E003545D26F302F41F88D6FF91294B4DA009249B21C)
+00:00:02.885 : [hashfs] dlc_pcg.scs: Created and validated, 173 entries (6CE6193FB73D4DD470F93FC94D75DC7AD8C72C5C5174DDF036DA11A5869ECE1C)
+00:00:03.059 : [hashfs] dlc_phys_flags.scs: Created and validated, 10558 entries (02BA2540C7DBD09273E6C6DE01C87C7D69D47DF20E19455603DE2A093BA8DD54)
+00:00:03.078 : [hashfs] dlc_pink_ribbon.scs: Created and validated, 961 entries (7712A5EBAAEB43D9073C92F6FAA209F7BF63F49B6349F666B2B58866AF556B5A)
+00:00:03.108 : [hashfs] dlc_pirates.scs: Created and validated, 2442 entries (39B250EDE34515099EF90E4AC2956BB3B2C96636A2595FC46E8A11D9155E28DB)
+00:00:03.128 : [hashfs] dlc_prehistoric.scs: Created and validated, 2468 entries (A8F7F07CEF05E7DA9E8D48C7ADB3F301EB2184D0D51DB38B60D5430BB2C96747)
+00:00:03.162 : [hashfs] dlc_raven.scs: Created and validated, 1419 entries (8938484545627DF493369F7B8D20A383809070786A6127C8CE1E9ABB1D18C572)
+00:00:03.180 : [hashfs] dlc_rims.scs: Created and validated, 837 entries (E0B60357D6B6A234341684AA7088259FB967F78EE89061CF5254959157B1C5C3)
+00:00:03.199 : [hashfs] dlc_rocket_league.scs: Created and validated, 142 entries (3C3EDE5A51A41FF99B4F4DD8C8C311C3CB61988FE909705A3A7930CE1A315747)
+00:00:03.232 : [hashfs] dlc_schwarzmuller.scs: Created and validated, 3857 entries (793CF90ADCD5F26069B22188C64DBFC6ECD01CB060BAB3898904800EEFD0F0AB)
+00:00:03.262 : [hashfs] dlc_space.scs: Created and validated, 2182 entries (01CB7AB97B5F0CCDEB818E14DCBBA09FE73DB71D7C3FDF578ED7EC83353A45AD)
+00:00:03.300 : [hashfs] dlc_super_stripes.scs: Created and validated, 3205 entries (E4CD8348A291D22FF912EBDC286C13C3E34F1EF63E834B1FD8A38E694BFD7AEE)
+00:00:03.341 : [hashfs] dlc_toys.scs: Created and validated, 2659 entries (CC40F9A0A853AB5C8118A76571D3EAF4E4E7FEEAF5056FDE25BBAD3041F54469)
+00:00:03.398 : [hashfs] dlc_trailers.scs: Created and validated, 2343 entries (EAE3141CFC089EF4EBEE1FCAA83E0CA2676B4C8DBFD0A477374EE08661A69841)
+00:00:03.428 : [hashfs] dlc_valentine.scs: Created and validated, 1796 entries (C15567D7886FDAE0DB2660F9AB18E9A3D07E82C218B5E399C04FC7E6DE478CC1)
+00:00:03.569 : [hashfs] dlc_vikings.scs: Created and validated, 1680 entries (1E2D71FD7B1144D2FD019077E443CB1FB4AB0FE9C29D8F88D9492BE2D9E883B4)
+00:00:03.597 : [hashfs] dlc_volvo_construction.scs: Created and validated, 1880 entries (3EC5AA5E7C9A30F9318866D4B09FB2C6F72B0AFFFC465CC73CB138AEAB3F26F8)
+00:00:03.626 : [hashfs] dlc_volvo_tuning_pack.scs: Created and validated, 2572 entries (52773E45B05C594441AFB793736CC28FB9605203DCA51BE52A3F09B4254AEF74)
+00:00:03.653 : [hashfs] dlc_winter.scs: Created and validated, 2737 entries (DFF008F19609DBCD9631D3DAF2E9E2B9F6EAFA242A39AFB5A0D8D36EAE54CAAA)
+00:00:03.713 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:03.725 : exec /home/config.cfg
+00:00:03.725 : [sys] Failed to execute (/home/config.cfg), the file does not exist.
+00:00:03.751 : [lang] Language autodetection: 409
+00:00:03.795 : Selected language: en_us
+00:00:03.795 : Euro Truck Simulator 2 init ver.1.42.1.7s (rev. 2c4ee2b5f423)
+00:00:03.796 : [gfx] Selected rendering device: dx11
+00:00:03.818 : [gfx] NVAPI initialized
+00:00:03.829 : [gfx] AGS not detected. (6)
+00:00:03.945 : [net]  LOG INFO: Started
+00:00:03.949 : [fs] device  mounted.
+00:00:03.965 : Setting UI reference mode to: 1440x900...
+00:00:03.971 : [dxgi] Detected following adapters:
+00:00:03.973 : [dxgi] 0 - NVIDIA GeForce GTX 1650 (27.21.14.5671) [3962 MB]
+00:00:03.974 : [gfx] Using the DXGI display backend
+00:00:04.120 : [dxgi] Using adapter: NVIDIA GeForce GTX 1650 (27.21.14.5671) [3962 MB]
+00:00:04.128 : [dx11] Using SM5X rendering path
+00:00:04.362 : [disp] Adapter 0:  on DXGI backend
+00:00:04.362 : [disp] Output 0 : \\.\DISPLAY1 - CRTC @ (0, 0, 1920, 1080)
+00:00:04.362 : [disp] Detected color modes:
+00:00:04.362 : [disp] Mode 0 - SDR
+00:00:04.363 : [disp] Display MinLum: 0.500000, MaxLum 270.000000, MaxAvgLum: 270.000000
+00:00:04.363 : [disp] Mode 0 - 640x480 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 1 - 640x480 (32bpp) [72Hz]
+00:00:04.363 : [disp] Mode 2 - 640x480 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 3 - 720x480 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 4 - 720x480 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 5 - 720x576 (32bpp) [50Hz]
+00:00:04.363 : [disp] Mode 6 - 800x600 (32bpp) [56Hz]
+00:00:04.363 : [disp] Mode 7 - 800x600 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 8 - 800x600 (32bpp) [72Hz]
+00:00:04.363 : [disp] Mode 9 - 800x600 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 10 - 1024x768 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 11 - 1024x768 (32bpp) [70Hz]
+00:00:04.363 : [disp] Mode 12 - 1024x768 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 13 - 1152x864 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 14 - 1176x664 (32bpp) [50Hz]
+00:00:04.363 : [disp] Mode 15 - 1176x664 (32bpp) [50Hz]
+00:00:04.363 : [disp] Mode 16 - 1176x664 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 17 - 1176x664 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 18 - 1176x664 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 19 - 1176x664 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 20 - 1280x720 (32bpp) [50Hz]
+00:00:04.363 : [disp] Mode 21 - 1280x720 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 22 - 1280x720 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 23 - 1280x768 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 24 - 1280x768 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 25 - 1280x800 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 26 - 1280x960 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 27 - 1280x960 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 28 - 1280x960 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 29 - 1280x960 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 30 - 1280x1024 (32bpp) [60Hz]
+00:00:04.363 : [disp] Mode 31 - 1280x1024 (32bpp) [75Hz]
+00:00:04.363 : [disp] Mode 32 - 1360x768 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 33 - 1360x768 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 34 - 1366x768 (32bpp) [59Hz]
+00:00:04.363 : [disp] Mode 35 - 1366x768 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 36 - 1440x900 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 37 - 1600x900 (32bpp) [60Hz]
+00:00:04.364 : [disp] Mode 38 - 1600x1024 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 39 - 1600x1024 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 40 - 1680x1050 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 41 - 1920x1080 (32bpp) [50Hz]
+00:00:04.364 : [disp] Mode 42 - 1920x1080 (32bpp) [60Hz]
+00:00:04.364 : [disp] Mode 43 - 1920x1080 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 44 - 1920x1080 (32bpp) [74Hz]
+00:00:04.364 : [disp] Output 1 : \\.\DISPLAY2 - CRTC @ (-1920, 0, 1920, 1080)
+00:00:04.364 : [disp] Detected color modes:
+00:00:04.364 : [disp] Mode 0 - SDR
+00:00:04.364 : [disp] Display MinLum: 0.500000, MaxLum 270.000000, MaxAvgLum: 270.000000
+00:00:04.364 : [disp] Mode 0 - 640x480 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 1 - 640x480 (32bpp) [60Hz]
+00:00:04.364 : [disp] Mode 2 - 640x480 (32bpp) [75Hz]
+00:00:04.364 : [disp] Mode 3 - 640x480 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 4 - 640x480 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 5 - 640x480 (32bpp) [119Hz]
+00:00:04.364 : [disp] Mode 6 - 640x480 (32bpp) [119Hz]
+00:00:04.364 : [disp] Mode 7 - 640x480 (32bpp) [143Hz]
+00:00:04.364 : [disp] Mode 8 - 640x480 (32bpp) [143Hz]
+00:00:04.364 : [disp] Mode 9 - 720x480 (32bpp) [59Hz]
+00:00:04.364 : [disp] Mode 10 - 720x480 (32bpp) [60Hz]
+00:00:04.364 : [disp] Mode 11 - 720x480 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 12 - 720x480 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 13 - 720x480 (32bpp) [119Hz]
+00:00:04.364 : [disp] Mode 14 - 720x480 (32bpp) [119Hz]
+00:00:04.364 : [disp] Mode 15 - 720x480 (32bpp) [143Hz]
+00:00:04.364 : [disp] Mode 16 - 720x480 (32bpp) [143Hz]
+00:00:04.364 : [disp] Mode 17 - 720x576 (32bpp) [50Hz]
+00:00:04.364 : [disp] Mode 18 - 720x576 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 19 - 720x576 (32bpp) [100Hz]
+00:00:04.364 : [disp] Mode 20 - 720x576 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 21 - 720x576 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 22 - 720x576 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 23 - 720x576 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 24 - 800x600 (32bpp) [60Hz]
+00:00:04.365 : [disp] Mode 25 - 800x600 (32bpp) [75Hz]
+00:00:04.365 : [disp] Mode 26 - 800x600 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 27 - 800x600 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 28 - 800x600 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 29 - 800x600 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 30 - 800x600 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 31 - 800x600 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 32 - 1024x768 (32bpp) [60Hz]
+00:00:04.365 : [disp] Mode 33 - 1024x768 (32bpp) [75Hz]
+00:00:04.365 : [disp] Mode 34 - 1024x768 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 35 - 1024x768 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 36 - 1024x768 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 37 - 1024x768 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 38 - 1024x768 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 39 - 1024x768 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 40 - 1152x864 (32bpp) [59Hz]
+00:00:04.365 : [disp] Mode 41 - 1152x864 (32bpp) [59Hz]
+00:00:04.365 : [disp] Mode 42 - 1152x864 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 43 - 1152x864 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 44 - 1152x864 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 45 - 1152x864 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 46 - 1152x864 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 47 - 1152x864 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 48 - 1176x664 (32bpp) [50Hz]
+00:00:04.365 : [disp] Mode 49 - 1176x664 (32bpp) [50Hz]
+00:00:04.365 : [disp] Mode 50 - 1176x664 (32bpp) [60Hz]
+00:00:04.365 : [disp] Mode 51 - 1176x664 (32bpp) [60Hz]
+00:00:04.365 : [disp] Mode 52 - 1176x664 (32bpp) [59Hz]
+00:00:04.365 : [disp] Mode 53 - 1176x664 (32bpp) [59Hz]
+00:00:04.365 : [disp] Mode 54 - 1280x720 (32bpp) [50Hz]
+00:00:04.365 : [disp] Mode 55 - 1280x720 (32bpp) [60Hz]
+00:00:04.365 : [disp] Mode 56 - 1280x720 (32bpp) [59Hz]
+00:00:04.365 : [disp] Mode 57 - 1280x720 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 58 - 1280x720 (32bpp) [100Hz]
+00:00:04.365 : [disp] Mode 59 - 1280x720 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 60 - 1280x720 (32bpp) [119Hz]
+00:00:04.365 : [disp] Mode 61 - 1280x720 (32bpp) [143Hz]
+00:00:04.365 : [disp] Mode 62 - 1280x720 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 63 - 1280x768 (32bpp) [59Hz]
+00:00:04.366 : [disp] Mode 64 - 1280x768 (32bpp) [59Hz]
+00:00:04.366 : [disp] Mode 65 - 1280x768 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 66 - 1280x768 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 67 - 1280x768 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 68 - 1280x768 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 69 - 1280x768 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 70 - 1280x768 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 71 - 1280x800 (32bpp) [59Hz]
+00:00:04.366 : [disp] Mode 72 - 1280x800 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 73 - 1280x800 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 74 - 1280x800 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 75 - 1280x800 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 76 - 1280x800 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 77 - 1280x800 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 78 - 1280x960 (32bpp) [75Hz]
+00:00:04.366 : [disp] Mode 79 - 1280x960 (32bpp) [75Hz]
+00:00:04.366 : [disp] Mode 80 - 1280x960 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 81 - 1280x960 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 82 - 1280x960 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 83 - 1280x960 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 84 - 1280x960 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 85 - 1280x960 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 86 - 1280x1024 (32bpp) [75Hz]
+00:00:04.366 : [disp] Mode 87 - 1280x1024 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 88 - 1280x1024 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 89 - 1280x1024 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 90 - 1280x1024 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 91 - 1280x1024 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 92 - 1280x1024 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 93 - 1360x768 (32bpp) [59Hz]
+00:00:04.366 : [disp] Mode 94 - 1360x768 (32bpp) [59Hz]
+00:00:04.366 : [disp] Mode 95 - 1360x768 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 96 - 1360x768 (32bpp) [100Hz]
+00:00:04.366 : [disp] Mode 97 - 1360x768 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 98 - 1360x768 (32bpp) [119Hz]
+00:00:04.366 : [disp] Mode 99 - 1360x768 (32bpp) [143Hz]
+00:00:04.366 : [disp] Mode 100 - 1360x768 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 101 - 1366x768 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 102 - 1366x768 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 103 - 1366x768 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 104 - 1366x768 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 105 - 1366x768 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 106 - 1366x768 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 107 - 1366x768 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 108 - 1366x768 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 109 - 1440x900 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 110 - 1440x900 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 111 - 1440x900 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 112 - 1440x900 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 113 - 1440x900 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 114 - 1440x900 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 115 - 1440x900 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 116 - 1600x900 (32bpp) [60Hz]
+00:00:04.367 : [disp] Mode 117 - 1600x900 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 118 - 1600x900 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 119 - 1600x900 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 120 - 1600x900 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 121 - 1600x900 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 122 - 1600x900 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 123 - 1600x1024 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 124 - 1600x1024 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 125 - 1600x1024 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 126 - 1600x1024 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 127 - 1600x1024 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 128 - 1600x1024 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 129 - 1600x1024 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 130 - 1600x1024 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 131 - 1680x1050 (32bpp) [59Hz]
+00:00:04.367 : [disp] Mode 132 - 1680x1050 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 133 - 1680x1050 (32bpp) [100Hz]
+00:00:04.367 : [disp] Mode 134 - 1680x1050 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 135 - 1680x1050 (32bpp) [119Hz]
+00:00:04.367 : [disp] Mode 136 - 1680x1050 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 137 - 1680x1050 (32bpp) [143Hz]
+00:00:04.367 : [disp] Mode 138 - 1920x1080 (32bpp) [50Hz]
+00:00:04.367 : [disp] Mode 139 - 1920x1080 (32bpp) [60Hz]
+00:00:04.368 : [disp] Mode 140 - 1920x1080 (32bpp) [59Hz]
+00:00:04.368 : [disp] Mode 141 - 1920x1080 (32bpp) [85Hz]
+00:00:04.368 : [disp] Mode 142 - 1920x1080 (32bpp) [100Hz]
+00:00:04.368 : [disp] Mode 143 - 1920x1080 (32bpp) [119Hz]
+00:00:04.368 : [disp] Mode 144 - 1920x1080 (32bpp) [143Hz]
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.default' (of type 'default_setup_config').
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.minimum' (of type 'default_setup_config').
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.deferred.lower' (of type 'default_setup_config').
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.deferred.medium' (of type 'default_setup_config').
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.460' (of type 'default_setup_config').
+00:00:04.485 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.285' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.250' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.ati.hd.4850' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gt.220' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.7800' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gt.7600' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.ati.hd.4550' (of type 'default_setup_config').
+00:00:04.486 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gs.8400' (of type 'default_setup_config').
+00:00:04.487 : [gfx] Considered entries:
+00:00:04.487 :   NVIDIA GeForce GTX 1650 0x1F82
+00:00:04.992 : [sound] Available drivers: #5
+00:00:04.993 : [sound] Driver 0 = Speakers (2- High Definition Audio Device) (192000 Hz) ({32967486-7f10-499b-8506-7c191f936030})
+00:00:04.994 : [sound] Driver 1 = HP 25x (NVIDIA High Definition Audio) (48000 Hz) ({1644c4f0-d231-4444-bb15-4d56e3d76a0f})
+00:00:04.994 : [sound] Driver 2 = LC27T55 (NVIDIA High Definition Audio) (48000 Hz) ({3ff80420-95ea-4f0f-8c77-cb1c8d751c5c})
+00:00:04.995 : [sound] Driver 3 = Digital Audio (S/PDIF) (2- High Definition Audio Device) (48000 Hz) ({6ed0814c-b9a6-4322-8d53-257ecc9f2f89})
+00:00:05.006 : [sound] Driver 4 = Speakers (Razer Seiren X) (48000 Hz) ({ada03555-ebe6-4675-ac2c-3d7b23607893})
+00:00:05.160 : [sound] Selecting default audio driver (0).
+00:00:05.372 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:05.374 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:05.716 : Banlist loading...
+00:00:05.716 : === BAN LIST ===
+00:00:05.716 : ================
+00:00:05.760 : [mod_package_manager] Received list of the steam workshop subscribed mods. (received 0 mods total, 0 loaded, 0 scheduled for download)
+00:00:05.761 : dispatch
+00:00:05.761 : exit
+00:00:05.927 : [bullet] Starting physics server: Bullet
+00:00:24.022 : mm_flush_repeatedly
+00:00:24.027 : [fs] device dlc_actros_tuning.scs mounted.
+00:00:24.027 : [fs] device dlc_christmas.scs mounted.
+00:00:24.027 : [fs] device dlc_daf_2021.scs mounted.
+00:00:24.027 : [fs] device dlc_daf_tuning_pack.scs mounted.
+00:00:24.027 : [fs] device dlc_dragon.scs mounted.
+00:00:24.027 : [fs] device dlc_fantasy.scs mounted.
+00:00:24.027 : [fs] device dlc_flags_at.scs mounted.
+00:00:24.027 : [fs] device dlc_flags_aus.scs mounted.
+00:00:24.027 : [fs] device dlc_flags_be.scs mounted.
+00:00:24.027 : [fs] device dlc_flags_bg.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_bz.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_ca.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_ch.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_cn.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_cz.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_de.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_dk.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_ee.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_es.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_fi.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_fr.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_hu.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_ie.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_it.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_jp.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_kr.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_lt.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_lv.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_n.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_nl.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_pl.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_pt.scs mounted.
+00:00:24.028 : [fs] device dlc_flags_ro.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_ru.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_s.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_sc.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_sk.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_tr.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_uk.scs mounted.
+00:00:24.029 : [fs] device dlc_flags_us.scs mounted.
+00:00:24.029 : [fs] device dlc_goodyear.scs mounted.
+00:00:24.029 : [fs] device dlc_halloween.scs mounted.
+00:00:24.029 : [fs] device dlc_heavy_cargo.scs mounted.
+00:00:24.029 : [fs] device dlc_hs_schoch.scs mounted.
+00:00:24.029 : [fs] device dlc_krone.scs mounted.
+00:00:24.029 : [fs] device dlc_lunar_new_year.scs mounted.
+00:00:24.029 : [fs] device dlc_metallics.scs mounted.
+00:00:24.029 : [fs] device dlc_metallics2.scs mounted.
+00:00:24.029 : [fs] device dlc_michelin.scs mounted.
+00:00:24.029 : [fs] device dlc_mighty_griffin.scs mounted.
+00:00:24.029 : [fs] device dlc_nature.scs mounted.
+00:00:24.029 : [fs] device dlc_oversize.scs mounted.
+00:00:24.029 : [fs] device dlc_pcg.scs mounted.
+00:00:24.029 : [fs] device dlc_phys_flags.scs mounted.
+00:00:24.029 : [fs] device dlc_pink_ribbon.scs mounted.
+00:00:24.030 : [fs] device dlc_pirates.scs mounted.
+00:00:24.030 : [fs] device dlc_prehistoric.scs mounted.
+00:00:24.030 : [fs] device dlc_raven.scs mounted.
+00:00:24.030 : [fs] device dlc_rims.scs mounted.
+00:00:24.030 : [fs] device dlc_rocket_league.scs mounted.
+00:00:24.030 : [fs] device dlc_schwarzmuller.scs mounted.
+00:00:24.030 : [fs] device dlc_space.scs mounted.
+00:00:24.030 : [fs] device dlc_super_stripes.scs mounted.
+00:00:24.030 : [fs] device dlc_toys.scs mounted.
+00:00:24.030 : [fs] device dlc_trailers.scs mounted.
+00:00:24.030 : [fs] device dlc_valentine.scs mounted.
+00:00:24.030 : [fs] device dlc_vikings.scs mounted.
+00:00:24.030 : [fs] device dlc_volvo_construction.scs mounted.
+00:00:24.030 : [fs] device dlc_volvo_tuning_pack.scs mounted.
+00:00:24.030 : [fs] device dlc_winter.scs mounted.
+00:00:24.034 : <WARNING> Could not load profile config for the cvar group: 1. Loading defaults...
+00:00:24.035 : uset s_reverb_world "1"
+00:00:24.035 : uset s_reverb_cabin "1"
+00:00:24.035 : uset s_noise_aero "1"
+00:00:24.035 : uset s_noise_windows "1"
+00:00:24.035 : uset s_rumble_enabled "1"
+00:00:24.035 : uset s_reverse_enabled "1"
+00:00:24.035 : uset s_cb_radio_beep_type "roger01"
+00:00:24.035 : uset s_cb_radio_beep_own "0"
+00:00:24.035 : uset s_cb_radio_beep_enabled "1"
+00:00:24.035 : uset s_cb_radio_noise_enabled "1"
+00:00:24.035 : uset g_mp_name_tags "1"
+00:00:24.035 : uset g_chat_fade_out_timer "5"
+00:00:24.035 : uset g_chat_partial_fade_out "0"
+00:00:24.035 : uset g_chat_on_navigation "1"
+00:00:24.035 : uset g_chat_activate "1"
+00:00:24.035 : uset g_chat_close_automatic "0"
+00:00:24.035 : uset g_disable_beacons "0"
+00:00:24.035 : uset g_show_game_blockers "1"
+00:00:24.035 : uset g_show_game_elements "1"
+00:00:24.035 : uset g_hmd_no_3d_background "0"
+00:00:24.035 : uset g_hmd_no_special_menu "0"
+00:00:24.035 : uset g_hmd_reduced_cabin_movement "1"
+00:00:24.035 : uset g_hmd_no_artifical_movement "0"
+00:00:24.035 : uset g_eye_pause_gaze "3000"
+00:00:24.035 : uset g_eye_pause "0"
+00:00:24.035 : uset g_cam_blinker "0"
+00:00:24.035 : uset g_cam_physics_value "1.0"
+00:00:24.035 : uset g_cam_physics "1"
+00:00:24.035 : uset g_blinker_auto_off "1"
+00:00:24.035 : uset g_cruise_control_smart "5.0"
+00:00:24.035 : uset g_cruise_control_grid "5.0"
+00:00:24.035 : uset g_adaptive_shift "0.0"
+00:00:24.035 : uset g_fuel_simulation "0"
+00:00:24.035 : uset g_hardcore_simulation "0"
+00:00:24.035 : uset g_reg_setting "reg_setting.europe"
+00:00:24.035 : uset g_brake_light_all "0"
+00:00:24.035 : uset g_use_speed_limiter "1"
+00:00:24.035 : uset g_hud_speed_warning "0"
+00:00:24.035 : uset g_hud_speed_limit "1"
+00:00:24.035 : uset g_axle_drop_auto "1"
+00:00:24.035 : uset g_engine_start_auto "1"
+00:00:24.035 : uset g_motor_brake_auto "0"
+00:00:24.035 : uset g_retarder_auto "0"
+00:00:24.035 : uset g_cabin_suspension_stiffness "1.0"
+00:00:24.035 : uset g_suspension_stiffness "1.0"
+00:00:24.035 : uset g_trailer_stability "0.5"
+00:00:24.035 : uset g_truck_stability "0.5"
+00:00:24.035 : uset g_mpg "0"
+00:00:24.035 : uset g_gallon "0"
+00:00:24.035 : uset g_fahrenheit "0"
+00:00:24.035 : uset g_pounds "kg"
+00:00:24.035 : uset g_mph "0"
+00:00:24.035 : uset g_road_events "1.0"
+00:00:24.035 : uset g_detours "1.0"
+00:00:24.035 : uset g_name_localization_secondary "0"
+00:00:24.035 : uset g_name_localization "1"
+00:00:24.035 : uset g_lang_set "1"
+00:00:24.035 : uset g_lang "tr_tr"
+00:00:24.035 : uset g_cutscenes "1"
+00:00:24.035 : uset g_phys_mirrors "0"
+00:00:24.035 : uset g_world_map_zoom "0"
+00:00:24.036 : uset g_cargo_load_require_park_brake "0"
+00:00:24.036 : uset g_cargo_load_require_engine_off "1"
+00:00:24.036 : uset g_show_always_wotr_event "0"
+00:00:24.036 : uset g_last_wotr_event_start "0"
+00:00:24.036 : uset g_multiplayer_backup_index "-1"
+00:00:24.036 : uset g_force_load_selector "0"
+00:00:24.036 : uset g_autoload_ignore_autosave "0"
+00:00:24.036 : uset g_start_in_truck "0"
+00:00:24.036 : uset g_park_brake_init "0"
+00:00:24.036 : uset g_trailer_advanced_coupling "0"
+00:00:24.036 : uset g_parking_difficulty "0"
+00:00:24.036 : uset g_simple_parking_doubles "1"
+00:00:24.036 : uset g_speed_warning "0"
+00:00:24.036 : uset g_voice_navigation_pack ""
+00:00:24.036 : uset g_voice_navigation "0"
+00:00:24.036 : uset g_job_distance "1.0"
+00:00:24.036 : uset g_job_distance_limit "-1.0"
+00:00:24.036 : uset g_income_factor "1.0"
+00:00:24.036 : uset g_currency "0"
+00:00:24.036 : uset g_bad_weather_factor "0.07"
+00:00:24.036 : uset g_truck_analysis_fold "0"
+00:00:24.036 : uset g_desktop_rnd "0"
+00:00:24.036 : uset g_desktop_bcg "config.night_city"
+00:00:24.036 : uset g_save_idx "1"
+00:00:24.036 : uset g_ui_map_align "1"
+00:00:24.036 : uset g_gps_routing_mode "0"
+00:00:24.036 : uset g_gps_navigation "3"
+00:00:24.036 : uset g_heavy_cargo_popup "1"
+00:00:24.036 : uset g_mirrors "2"
+00:00:24.036 : uset g_adviser_eta "1"
+00:00:24.036 : uset g_adviser_running_message "1"
+00:00:24.036 : uset g_adviser_auto_parking "1"
+00:00:24.036 : uset g_adviser_keep_hidden "0"
+00:00:24.036 : uset g_adviser "1"
+00:00:24.036 : uset g_desktop_tutorial "1"
+00:00:24.036 : uset g_tutorial "1"
+00:00:24.036 : uset g_fatigue "1"
+00:00:24.036 : uset g_time_zones "0"
+00:00:24.036 : uset g_police "0"
+00:00:24.036 : uset g_subtitles "0"
+00:00:24.036 : uset g_clock_24 "1"
+00:00:24.037 : <WARNING> Could not load profile config for the cvar group: 1. Loading defaults...
+00:00:24.038 : uset s_reverb_world "1"
+00:00:24.038 : uset s_reverb_cabin "1"
+00:00:24.038 : uset s_noise_aero "1"
+00:00:24.038 : uset s_noise_windows "1"
+00:00:24.038 : uset s_rumble_enabled "1"
+00:00:24.038 : uset s_reverse_enabled "1"
+00:00:24.038 : uset s_cb_radio_beep_type "roger01"
+00:00:24.038 : uset s_cb_radio_beep_own "0"
+00:00:24.038 : uset s_cb_radio_beep_enabled "1"
+00:00:24.038 : uset s_cb_radio_noise_enabled "1"
+00:00:24.038 : uset g_mp_name_tags "1"
+00:00:24.038 : uset g_chat_fade_out_timer "5"
+00:00:24.038 : uset g_chat_partial_fade_out "0"
+00:00:24.038 : uset g_chat_on_navigation "1"
+00:00:24.038 : uset g_chat_activate "1"
+00:00:24.038 : uset g_chat_close_automatic "0"
+00:00:24.038 : uset g_disable_beacons "0"
+00:00:24.038 : uset g_show_game_blockers "1"
+00:00:24.038 : uset g_show_game_elements "1"
+00:00:24.038 : uset g_hmd_no_3d_background "0"
+00:00:24.038 : uset g_hmd_no_special_menu "0"
+00:00:24.038 : uset g_hmd_reduced_cabin_movement "1"
+00:00:24.038 : uset g_hmd_no_artifical_movement "0"
+00:00:24.038 : uset g_eye_pause_gaze "3000"
+00:00:24.038 : uset g_eye_pause "0"
+00:00:24.038 : uset g_cam_blinker "0"
+00:00:24.038 : uset g_cam_physics_value "1.0"
+00:00:24.038 : uset g_cam_physics "1"
+00:00:24.039 : uset g_blinker_auto_off "1"
+00:00:24.039 : uset g_cruise_control_smart "5.0"
+00:00:24.039 : uset g_cruise_control_grid "5.0"
+00:00:24.039 : uset g_adaptive_shift "0.0"
+00:00:24.039 : uset g_fuel_simulation "0"
+00:00:24.039 : uset g_hardcore_simulation "0"
+00:00:24.039 : uset g_reg_setting "reg_setting.europe"
+00:00:24.039 : uset g_brake_light_all "0"
+00:00:24.039 : uset g_use_speed_limiter "1"
+00:00:24.039 : uset g_hud_speed_warning "0"
+00:00:24.039 : uset g_hud_speed_limit "1"
+00:00:24.039 : uset g_axle_drop_auto "1"
+00:00:24.039 : uset g_engine_start_auto "1"
+00:00:24.039 : uset g_motor_brake_auto "0"
+00:00:24.039 : uset g_retarder_auto "0"
+00:00:24.039 : uset g_cabin_suspension_stiffness "1.0"
+00:00:24.039 : uset g_suspension_stiffness "1.0"
+00:00:24.039 : uset g_trailer_stability "0.5"
+00:00:24.039 : uset g_truck_stability "0.5"
+00:00:24.039 : uset g_mpg "0"
+00:00:24.039 : uset g_gallon "0"
+00:00:24.039 : uset g_fahrenheit "0"
+00:00:24.039 : uset g_pounds "kg"
+00:00:24.039 : uset g_mph "0"
+00:00:24.039 : uset g_road_events "1.0"
+00:00:24.039 : uset g_detours "1.0"
+00:00:24.039 : uset g_name_localization_secondary "0"
+00:00:24.039 : uset g_name_localization "1"
+00:00:24.039 : uset g_lang_set "1"
+00:00:24.039 : uset g_lang "tr_tr"
+00:00:24.039 : uset g_cutscenes "1"
+00:00:24.039 : uset g_phys_mirrors "0"
+00:00:24.039 : uset g_world_map_zoom "0"
+00:00:24.039 : uset g_cargo_load_require_park_brake "0"
+00:00:24.039 : uset g_cargo_load_require_engine_off "1"
+00:00:24.039 : uset g_show_always_wotr_event "0"
+00:00:24.039 : uset g_last_wotr_event_start "0"
+00:00:24.039 : uset g_multiplayer_backup_index "-1"
+00:00:24.039 : uset g_force_load_selector "0"
+00:00:24.039 : uset g_autoload_ignore_autosave "0"
+00:00:24.039 : uset g_start_in_truck "0"
+00:00:24.039 : uset g_park_brake_init "0"
+00:00:24.039 : uset g_trailer_advanced_coupling "0"
+00:00:24.039 : uset g_parking_difficulty "0"
+00:00:24.039 : uset g_simple_parking_doubles "1"
+00:00:24.039 : uset g_speed_warning "0"
+00:00:24.039 : uset g_voice_navigation_pack ""
+00:00:24.039 : uset g_voice_navigation "0"
+00:00:24.039 : uset g_job_distance "1.0"
+00:00:24.039 : uset g_job_distance_limit "-1.0"
+00:00:24.039 : uset g_income_factor "1.0"
+00:00:24.039 : uset g_currency "0"
+00:00:24.039 : uset g_bad_weather_factor "0.07"
+00:00:24.039 : uset g_truck_analysis_fold "0"
+00:00:24.039 : uset g_desktop_rnd "0"
+00:00:24.039 : uset g_desktop_bcg "config.night_city"
+00:00:24.039 : uset g_save_idx "1"
+00:00:24.039 : uset g_ui_map_align "1"
+00:00:24.039 : uset g_gps_routing_mode "0"
+00:00:24.039 : uset g_gps_navigation "3"
+00:00:24.040 : uset g_heavy_cargo_popup "1"
+00:00:24.040 : uset g_mirrors "2"
+00:00:24.040 : uset g_adviser_eta "1"
+00:00:24.040 : uset g_adviser_running_message "1"
+00:00:24.040 : uset g_adviser_auto_parking "1"
+00:00:24.040 : uset g_adviser_keep_hidden "0"
+00:00:24.040 : uset g_adviser "1"
+00:00:24.040 : uset g_desktop_tutorial "1"
+00:00:24.040 : uset g_tutorial "1"
+00:00:24.040 : uset g_fatigue "1"
+00:00:24.040 : uset g_time_zones "0"
+00:00:24.040 : uset g_police "0"
+00:00:24.040 : uset g_subtitles "0"
+00:00:24.040 : uset g_clock_24 "1"
+00:00:24.090 : New profile selected: ':steam/bicici'
+00:00:24.091 : Creating backup of local profiles inside '/home/profiles(1.42.1.7s).bak'
+00:00:24.091 : Local profiles backup complete
+00:00:24.091 : Creating backup of steam profiles inside '/home/steam_profiles(1.42.1.7s).bak'
+00:00:24.178 : Steam profiles backup complete
+00:00:24.179 : Profiles backup complete
+00:00:56.952 : [mods] Active 0 mods (local: 0, workshop: 0)
+00:00:57.374 : [inp] Device change detected
+00:00:57.921 : [inp] Initial evaluation
+00:00:57.921 : [inp] Classifying devices
+00:00:57.921 : [inp] Applying input.clutch.default
+00:00:57.921 : [inp] Applying input.look.default
+00:00:57.921 : [inp] Applying input.gearbox.updown.default
+00:00:57.921 : [inp] Applying input.gearbox.drive.default
+00:00:57.921 : [inp] Applying input.gearbox.hshifter.default
+00:00:57.921 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:57.921 : [inp] No steering axis found, fallback selection
+00:00:57.921 : [inp] Trying to find a valid combination
+00:00:57.921 : [inp] No combination found.
+00:00:57.922 : [inp] Applying input.steer.default
+00:00:57.922 : [inp] Applying input.pedals.default
+00:00:57.922 : [inp] Applying input.clutch.default
+00:00:57.922 : [inp] Applying input.look.default
+00:00:57.922 : [inp] Applying input.gearbox.updown.default
+00:00:57.922 : [inp] Applying input.gearbox.drive.default
+00:00:57.922 : [inp] Applying input.gearbox.hshifter.default
+00:00:57.922 : [inp] Applying input.gearbox.hshifter.switch.default
+00:00:59.857 : mm_flush_repeatedly
+00:00:59.866 : uset s_cbeffects_mute "0"
+00:00:59.866 : uset s_voiceover_mute "0"
+00:00:59.866 : uset s_intro_music_mute "0"
+00:00:59.866 : uset s_ui_music_mute "0"
+00:00:59.866 : uset s_ui_mute "0"
+00:00:59.866 : uset s_navigation_mute "0"
+00:00:59.866 : uset s_music_mute "0"
+00:00:59.866 : uset s_radio_mute "0"
+00:00:59.866 : uset s_interior_mute "0"
+00:00:59.866 : uset s_ambient_mute "0"
+00:00:59.866 : uset s_world_mute "0"
+00:00:59.866 : uset s_traffic_mute "0"
+00:00:59.866 : uset s_trailer_mute "0"
+00:00:59.866 : uset s_truck_noise_mute "0"
+00:00:59.866 : uset s_truck_effects_mute "0"
+00:00:59.866 : uset s_truck_turbo_mute "0"
+00:00:59.866 : uset s_truck_exhaust_mute "0"
+00:00:59.866 : uset s_truck_engine_mute "0"
+00:00:59.866 : uset s_master_mute "0"
+00:00:59.866 : uset s_cbeffects_volume "0.5"
+00:00:59.866 : uset s_voiceover_volume "0.5"
+00:00:59.866 : uset s_intro_music_volume "0.5"
+00:00:59.866 : uset s_ui_music_volume "0.5"
+00:00:59.866 : uset s_ui_volume "0.5"
+00:00:59.866 : uset s_navigation_volume "0.5"
+00:00:59.866 : uset s_music_volume "0.5"
+00:00:59.866 : uset s_radio_volume "0.5"
+00:00:59.866 : uset s_interior_volume "0.5"
+00:00:59.866 : uset s_ambient_volume "0.5"
+00:00:59.866 : uset s_world_volume "0.5"
+00:00:59.866 : uset s_traffic_volume "0.5"
+00:00:59.866 : uset s_trailer_volume "0.5"
+00:00:59.866 : uset s_truck_noise_volume "0.5"
+00:00:59.866 : uset s_truck_effects_volume "0.5"
+00:00:59.866 : uset s_truck_turbo_volume "0.5"
+00:00:59.866 : uset s_truck_exhaust_volume "0.5"
+00:00:59.866 : uset s_truck_engine_volume "0.5"
+00:00:59.866 : uset s_master_volume "0.75"
+00:00:59.866 : uset i_oculus_eye_protrusion "0.09"
+00:00:59.866 : uset i_oculus_eye_height "0.15"
+00:00:59.866 : uset i_hmd_max_prediction "0.1"
+00:00:59.866 : uset i_hmd_min_prediction "0.0"
+00:00:59.866 : uset r_interior "1"
+00:00:59.866 : uset r_steering_wheel "1"
+00:00:59.866 : uset g_eye_preset_5 ""
+00:00:59.866 : uset g_eye_preset_4 ""
+00:00:59.866 : uset g_eye_preset_3 ""
+00:00:59.866 : uset g_eye_preset_2 ""
+00:00:59.866 : uset g_eye_preset_1 ""
+00:00:59.866 : uset g_eye_enable "0"
+00:00:59.866 : uset g_cam_window_block "0.0"
+00:00:59.866 : uset g_toy_physics "1"
+00:00:59.866 : uset g_cam_steering_reverse "1.0"
+00:00:59.866 : uset g_cam_steering_value "1.0"
+00:00:59.866 : uset g_cam_steering "0"
+00:00:59.866 : uset g_pedal_clutch_range "1.0"
+00:00:59.866 : uset g_brake_intensity "1.0"
+00:00:59.866 : uset g_steer_anim_range "900"
+00:00:59.866 : uset g_steer_autocenter "1"
+00:00:59.866 : uset g_clutch_brake "0.0"
+00:00:59.866 : uset g_hshifter_synchronized "1"
+00:00:59.866 : uset g_hshifter_split "3"
+00:00:59.866 : uset g_hshifter_layout_shifting "1"
+00:00:59.866 : uset g_hshifter_layout "splitter"
+00:00:59.866 : uset g_trans "0"
+00:00:59.866 : uset g_baked_vehicle "1"
+00:00:59.867 : uset g_force_economy_reset "0"
+00:00:59.867 : uset g_input_configured "0"
+00:00:59.867 : uset s_reverb_world "1"
+00:00:59.867 : uset s_reverb_cabin "1"
+00:00:59.867 : uset s_noise_aero "1"
+00:00:59.867 : uset s_noise_windows "1"
+00:00:59.867 : uset s_rumble_enabled "1"
+00:00:59.867 : uset s_reverse_enabled "1"
+00:00:59.867 : uset s_cb_radio_beep_type "roger01"
+00:00:59.867 : uset s_cb_radio_beep_own "0"
+00:00:59.867 : uset s_cb_radio_beep_enabled "1"
+00:00:59.867 : uset s_cb_radio_noise_enabled "1"
+00:00:59.867 : uset g_mp_name_tags "1"
+00:00:59.867 : uset g_chat_fade_out_timer "5"
+00:00:59.867 : uset g_chat_partial_fade_out "0"
+00:00:59.867 : uset g_chat_on_navigation "1"
+00:00:59.867 : uset g_chat_activate "1"
+00:00:59.867 : uset g_chat_close_automatic "0"
+00:00:59.867 : uset g_disable_beacons "0"
+00:00:59.867 : uset g_show_game_blockers "1"
+00:00:59.867 : uset g_show_game_elements "1"
+00:00:59.867 : uset g_hmd_no_3d_background "0"
+00:00:59.868 : uset g_hmd_no_special_menu "0"
+00:00:59.868 : uset g_hmd_reduced_cabin_movement "1"
+00:00:59.868 : uset g_hmd_no_artifical_movement "0"
+00:00:59.868 : uset g_eye_pause_gaze "3000"
+00:00:59.868 : uset g_eye_pause "0"
+00:00:59.868 : uset g_cam_blinker "0"
+00:00:59.868 : uset g_cam_physics_value "1.0"
+00:00:59.868 : uset g_cam_physics "1"
+00:00:59.868 : uset g_blinker_auto_off "1"
+00:00:59.868 : uset g_cruise_control_smart "5.0"
+00:00:59.868 : uset g_cruise_control_grid "5.0"
+00:00:59.868 : uset g_adaptive_shift "0.0"
+00:00:59.868 : uset g_fuel_simulation "0"
+00:00:59.868 : uset g_hardcore_simulation "0"
+00:00:59.868 : uset g_reg_setting "reg_setting.europe"
+00:00:59.868 : uset g_brake_light_all "0"
+00:00:59.868 : uset g_use_speed_limiter "1"
+00:00:59.868 : uset g_hud_speed_warning "0"
+00:00:59.868 : uset g_hud_speed_limit "1"
+00:00:59.868 : uset g_axle_drop_auto "1"
+00:00:59.868 : uset g_engine_start_auto "1"
+00:00:59.868 : uset g_motor_brake_auto "0"
+00:00:59.868 : uset g_retarder_auto "0"
+00:00:59.868 : uset g_cabin_suspension_stiffness "1.0"
+00:00:59.868 : uset g_suspension_stiffness "1.0"
+00:00:59.868 : uset g_trailer_stability "0.5"
+00:00:59.868 : uset g_truck_stability "0.5"
+00:00:59.868 : uset g_mpg "0"
+00:00:59.868 : uset g_gallon "0"
+00:00:59.868 : uset g_fahrenheit "0"
+00:00:59.868 : uset g_pounds "kg"
+00:00:59.868 : uset g_mph "0"
+00:00:59.868 : uset g_road_events "1.0"
+00:00:59.868 : uset g_detours "1.0"
+00:00:59.868 : uset g_name_localization_secondary "0"
+00:00:59.868 : uset g_name_localization "1"
+00:00:59.868 : uset g_lang_set "1"
+00:00:59.868 : uset g_lang "tr_tr"
+00:00:59.868 : uset g_cutscenes "1"
+00:00:59.868 : uset g_phys_mirrors "0"
+00:00:59.868 : uset g_world_map_zoom "0"
+00:00:59.868 : uset g_cargo_load_require_park_brake "0"
+00:00:59.868 : uset g_cargo_load_require_engine_off "1"
+00:00:59.868 : uset g_show_always_wotr_event "0"
+00:00:59.868 : uset g_last_wotr_event_start "0"
+00:00:59.868 : uset g_multiplayer_backup_index "-1"
+00:00:59.868 : uset g_force_load_selector "0"
+00:00:59.868 : uset g_autoload_ignore_autosave "0"
+00:00:59.868 : uset g_start_in_truck "0"
+00:00:59.868 : uset g_park_brake_init "0"
+00:00:59.868 : uset g_trailer_advanced_coupling "0"
+00:00:59.868 : uset g_parking_difficulty "0"
+00:00:59.868 : uset g_simple_parking_doubles "1"
+00:00:59.868 : uset g_speed_warning "0"
+00:00:59.868 : uset g_voice_navigation_pack ""
+00:00:59.868 : uset g_voice_navigation "0"
+00:00:59.868 : uset g_job_distance "1.0"
+00:00:59.868 : uset g_job_distance_limit "-1.0"
+00:00:59.868 : uset g_income_factor "1.0"
+00:00:59.868 : uset g_currency "0"
+00:00:59.868 : uset g_bad_weather_factor "0.07"
+00:00:59.868 : uset g_truck_analysis_fold "0"
+00:00:59.868 : uset g_desktop_rnd "0"
+00:00:59.869 : uset g_desktop_bcg "config.night_city"
+00:00:59.869 : uset g_save_idx "1"
+00:00:59.869 : uset g_ui_map_align "1"
+00:00:59.869 : uset g_gps_routing_mode "0"
+00:00:59.869 : uset g_gps_navigation "3"
+00:00:59.869 : uset g_heavy_cargo_popup "1"
+00:00:59.869 : uset g_mirrors "2"
+00:00:59.869 : uset g_adviser_eta "1"
+00:00:59.869 : uset g_adviser_running_message "1"
+00:00:59.869 : uset g_adviser_auto_parking "1"
+00:00:59.869 : uset g_adviser_keep_hidden "0"
+00:00:59.869 : uset g_adviser "1"
+00:00:59.869 : uset g_desktop_tutorial "1"
+00:00:59.869 : uset g_tutorial "1"
+00:00:59.869 : uset g_fatigue "1"
+00:00:59.869 : uset g_time_zones "0"
+00:00:59.869 : uset g_police "0"
+00:00:59.869 : uset g_subtitles "0"
+00:00:59.869 : uset g_clock_24 "1"
+00:00:59.890 : New profile selected: ':steam/bicici'
+00:01:16.355 : [mods] Active 0 mods (local: 0, workshop: 0)
+00:02:23.505 : mm_flush_repeatedly
+00:02:23.512 : uset s_cbeffects_mute "0"
+00:02:23.512 : uset s_voiceover_mute "0"
+00:02:23.512 : uset s_intro_music_mute "0"
+00:02:23.512 : uset s_ui_music_mute "0"
+00:02:23.512 : uset s_ui_mute "0"
+00:02:23.512 : uset s_navigation_mute "0"
+00:02:23.512 : uset s_music_mute "0"
+00:02:23.512 : uset s_radio_mute "0"
+00:02:23.512 : uset s_interior_mute "0"
+00:02:23.512 : uset s_ambient_mute "0"
+00:02:23.512 : uset s_world_mute "0"
+00:02:23.512 : uset s_traffic_mute "0"
+00:02:23.512 : uset s_trailer_mute "0"
+00:02:23.512 : uset s_truck_noise_mute "0"
+00:02:23.512 : uset s_truck_effects_mute "0"
+00:02:23.512 : uset s_truck_turbo_mute "0"
+00:02:23.512 : uset s_truck_exhaust_mute "0"
+00:02:23.512 : uset s_truck_engine_mute "0"
+00:02:23.512 : uset s_master_mute "0"
+00:02:23.513 : uset s_cbeffects_volume "0.24"
+00:02:23.513 : uset s_voiceover_volume "0.29"
+00:02:23.513 : uset s_intro_music_volume "0.26"
+00:02:23.513 : uset s_ui_music_volume "0"
+00:02:23.513 : uset s_ui_volume "0.34"
+00:02:23.513 : uset s_navigation_volume "0.19"
+00:02:23.513 : uset s_music_volume "0.15"
+00:02:23.513 : uset s_radio_volume "0.14"
+00:02:23.513 : uset s_interior_volume "0.33"
+00:02:23.513 : uset s_ambient_volume "0.38"
+00:02:23.513 : uset s_world_volume "0.31"
+00:02:23.513 : uset s_traffic_volume "0.38"
+00:02:23.513 : uset s_trailer_volume "0.14"
+00:02:23.513 : uset s_truck_noise_volume "0.3"
+00:02:23.513 : uset s_truck_effects_volume "0.38"
+00:02:23.513 : uset s_truck_turbo_volume "0.46"
+00:02:23.513 : uset s_truck_exhaust_volume "0.35"
+00:02:23.513 : uset s_truck_engine_volume "0.33"
+00:02:23.513 : uset s_master_volume "0"
+00:02:23.513 : uset i_oculus_eye_protrusion "0.09"
+00:02:23.513 : uset i_oculus_eye_height "0.15"
+00:02:23.513 : uset i_hmd_max_prediction "0.1"
+00:02:23.513 : uset i_hmd_min_prediction "0.0"
+00:02:23.513 : uset r_interior "1"
+00:02:23.513 : uset r_steering_wheel "1"
+00:02:23.513 : uset g_eye_preset_5 ""
+00:02:23.513 : uset g_eye_preset_4 ""
+00:02:23.513 : uset g_eye_preset_3 ""
+00:02:23.513 : uset g_eye_preset_2 ""
+00:02:23.513 : uset g_eye_preset_1 ""
+00:02:23.513 : uset g_eye_enable "0"
+00:02:23.513 : uset g_cam_window_block "0.0"
+00:02:23.513 : uset g_toy_physics "1"
+00:02:23.513 : uset g_cam_steering_reverse "1.0"
+00:02:23.513 : uset g_cam_steering_value "1.0"
+00:02:23.513 : uset g_cam_steering "0"
+00:02:23.513 : uset g_pedal_clutch_range "1.0"
+00:02:23.513 : uset g_brake_intensity "1.0"
+00:02:23.513 : uset g_steer_anim_range "900"
+00:02:23.513 : uset g_steer_autocenter "1"
+00:02:23.513 : uset g_clutch_brake "0.0"
+00:02:23.513 : uset g_hshifter_synchronized "1"
+00:02:23.513 : uset g_hshifter_split "3"
+00:02:23.513 : uset g_hshifter_layout_shifting "1"
+00:02:23.513 : uset g_hshifter_layout "splitter"
+00:02:23.513 : uset g_trans "0"
+00:02:23.513 : uset g_baked_vehicle "1"
+00:02:23.513 : uset g_force_economy_reset "0"
+00:02:23.513 : uset g_input_configured "0"
+00:02:23.514 : uset s_reverb_world "1"
+00:02:23.514 : uset s_reverb_cabin "1"
+00:02:23.514 : uset s_noise_aero "1"
+00:02:23.514 : uset s_noise_windows "1"
+00:02:23.514 : uset s_rumble_enabled "1"
+00:02:23.514 : uset s_reverse_enabled "1"
+00:02:23.514 : uset s_cb_radio_beep_type "roger01"
+00:02:23.514 : uset s_cb_radio_beep_own "0"
+00:02:23.514 : uset s_cb_radio_beep_enabled "1"
+00:02:23.514 : uset s_cb_radio_noise_enabled "1"
+00:02:23.514 : uset g_mp_name_tags "1"
+00:02:23.514 : uset g_chat_fade_out_timer "5"
+00:02:23.514 : uset g_chat_partial_fade_out "0"
+00:02:23.514 : uset g_chat_on_navigation "1"
+00:02:23.514 : uset g_chat_activate "1"
+00:02:23.514 : uset g_chat_close_automatic "0"
+00:02:23.514 : uset g_disable_beacons "0"
+00:02:23.514 : uset g_show_game_blockers "1"
+00:02:23.514 : uset g_show_game_elements "1"
+00:02:23.514 : uset g_hmd_no_3d_background "0"
+00:02:23.514 : uset g_hmd_no_special_menu "0"
+00:02:23.514 : uset g_hmd_reduced_cabin_movement "1"
+00:02:23.514 : uset g_hmd_no_artifical_movement "0"
+00:02:23.514 : uset g_eye_pause_gaze "3000"
+00:02:23.514 : uset g_eye_pause "0"
+00:02:23.514 : uset g_cam_blinker "0"
+00:02:23.514 : uset g_cam_physics_value "1.0"
+00:02:23.514 : uset g_cam_physics "1"
+00:02:23.514 : uset g_blinker_auto_off "1"
+00:02:23.514 : uset g_cruise_control_smart "5.0"
+00:02:23.514 : uset g_cruise_control_grid "5.0"
+00:02:23.514 : uset g_adaptive_shift "0.0"
+00:02:23.514 : uset g_fuel_simulation "0"
+00:02:23.514 : uset g_hardcore_simulation "0"
+00:02:23.514 : uset g_reg_setting "reg_setting.europe"
+00:02:23.514 : uset g_brake_light_all "0"
+00:02:23.515 : uset g_use_speed_limiter "1"
+00:02:23.515 : uset g_hud_speed_warning "0"
+00:02:23.515 : uset g_hud_speed_limit "1"
+00:02:23.515 : uset g_axle_drop_auto "1"
+00:02:23.515 : uset g_engine_start_auto "1"
+00:02:23.515 : uset g_motor_brake_auto "0"
+00:02:23.515 : uset g_retarder_auto "0"
+00:02:23.515 : uset g_cabin_suspension_stiffness "1.0"
+00:02:23.515 : uset g_suspension_stiffness "1.0"
+00:02:23.515 : uset g_trailer_stability "0.5"
+00:02:23.515 : uset g_truck_stability "0.5"
+00:02:23.515 : uset g_mpg "0"
+00:02:23.515 : uset g_gallon "0"
+00:02:23.515 : uset g_fahrenheit "0"
+00:02:23.515 : uset g_pounds "kg"
+00:02:23.515 : uset g_mph "0"
+00:02:23.515 : uset g_road_events "1.0"
+00:02:23.515 : uset g_detours "1.0"
+00:02:23.515 : uset g_name_localization_secondary "0"
+00:02:23.515 : uset g_name_localization "1"
+00:02:23.515 : uset g_lang_set "1"
+00:02:23.515 : uset g_lang "tr_tr"
+00:02:23.515 : uset g_cutscenes "1"
+00:02:23.515 : uset g_phys_mirrors "0"
+00:02:23.515 : uset g_world_map_zoom "0"
+00:02:23.515 : uset g_cargo_load_require_park_brake "0"
+00:02:23.515 : uset g_cargo_load_require_engine_off "1"
+00:02:23.515 : uset g_show_always_wotr_event "0"
+00:02:23.515 : uset g_last_wotr_event_start "0"
+00:02:23.515 : uset g_multiplayer_backup_index "-1"
+00:02:23.515 : uset g_force_load_selector "0"
+00:02:23.515 : uset g_autoload_ignore_autosave "0"
+00:02:23.515 : uset g_start_in_truck "0"
+00:02:23.515 : uset g_park_brake_init "0"
+00:02:23.515 : uset g_trailer_advanced_coupling "0"
+00:02:23.515 : uset g_parking_difficulty "0"
+00:02:23.515 : uset g_simple_parking_doubles "1"
+00:02:23.515 : uset g_speed_warning "0"
+00:02:23.515 : uset g_voice_navigation_pack ""
+00:02:23.515 : uset g_voice_navigation "0"
+00:02:23.515 : uset g_job_distance "1.0"
+00:02:23.515 : uset g_job_distance_limit "-1.0"
+00:02:23.515 : uset g_income_factor "1.0"
+00:02:23.515 : uset g_currency "0"
+00:02:23.515 : uset g_bad_weather_factor "0.07"
+00:02:23.515 : uset g_truck_analysis_fold "0"
+00:02:23.516 : uset g_desktop_rnd "0"
+00:02:23.516 : uset g_desktop_bcg "config.night_city"
+00:02:23.516 : uset g_save_idx "1"
+00:02:23.516 : uset g_ui_map_align "1"
+00:02:23.516 : uset g_gps_routing_mode "0"
+00:02:23.516 : uset g_gps_navigation "3"
+00:02:23.516 : uset g_heavy_cargo_popup "1"
+00:02:23.516 : uset g_mirrors "2"
+00:02:23.516 : uset g_adviser_eta "1"
+00:02:23.516 : uset g_adviser_running_message "1"
+00:02:23.516 : uset g_adviser_auto_parking "1"
+00:02:23.516 : uset g_adviser_keep_hidden "0"
+00:02:23.516 : uset g_adviser "1"
+00:02:23.516 : uset g_desktop_tutorial "1"
+00:02:23.516 : uset g_tutorial "1"
+00:02:23.516 : uset g_fatigue "1"
+00:02:23.516 : uset g_time_zones "0"
+00:02:23.516 : uset g_police "0"
+00:02:23.516 : uset g_subtitles "0"
+00:02:23.516 : uset g_clock_24 "1"
+00:02:23.538 : New profile selected: ':steam/bicici'
+00:02:27.862 : [mods] Active 0 mods (local: 0, workshop: 0)
+00:02:28.290 : [inp] Device change detected
+00:02:28.821 : [inp] Initial evaluation
+00:02:28.821 : [inp] Classifying devices
+00:02:28.821 : [inp] Applying input.clutch.default
+00:02:28.821 : [inp] Applying input.look.default
+00:02:28.821 : [inp] Applying input.gearbox.updown.default
+00:02:28.821 : [inp] Applying input.gearbox.drive.default
+00:02:28.821 : [inp] Applying input.gearbox.hshifter.default
+00:02:28.821 : [inp] Applying input.gearbox.hshifter.switch.default
+00:02:28.821 : [inp] No steering axis found, fallback selection
+00:02:28.821 : [inp] Trying to find a valid combination
+00:02:28.821 : [inp] No combination found.
+00:02:28.821 : [inp] Applying input.steer.default
+00:02:28.821 : [inp] Applying input.pedals.default
+00:02:28.821 : [inp] Applying input.clutch.default
+00:02:28.822 : [inp] Applying input.look.default
+00:02:28.822 : [inp] Applying input.gearbox.updown.default
+00:02:28.822 : [inp] Applying input.gearbox.drive.default
+00:02:28.822 : [inp] Applying input.gearbox.hshifter.default
+00:02:28.822 : [inp] Applying input.gearbox.hshifter.switch.default
+00:02:31.287 : [inp] Looking for new devices
+00:02:34.304 : [inp] Looking for new devices
+00:02:37.304 : [inp] Looking for new devices
+00:02:40.320 : [inp] Looking for new devices
+00:02:43.337 : [inp] Looking for new devices
+00:02:46.337 : [inp] Looking for new devices
+00:02:49.353 : [inp] Looking for new devices
+00:02:52.353 : [inp] Looking for new devices
+00:02:55.370 : [inp] Looking for new devices
+00:02:58.370 : [inp] Looking for new devices
+00:03:01.387 : [inp] Looking for new devices
+00:03:04.387 : [inp] Looking for new devices
+00:03:07.403 : [inp] Looking for new devices
+00:03:10.403 : [inp] Looking for new devices
+00:03:13.403 : [inp] Looking for new devices
+00:03:16.420 : [inp] Looking for new devices
+00:03:19.420 : [inp] Looking for new devices
+00:03:22.437 : [inp] Looking for new devices
+00:03:25.453 : [inp] Looking for new devices
+00:03:28.470 : [inp] Looking for new devices
+00:03:31.486 : [inp] Looking for new devices
+00:03:34.503 : [inp] Looking for new devices
+00:03:37.520 : [inp] Looking for new devices
+00:03:40.536 : [inp] Looking for new devices
+00:03:43.537 : [inp] Looking for new devices
+00:03:46.553 : [inp] Looking for new devices
+00:03:49.570 : [inp] Looking for new devices
+00:03:52.570 : [inp] Looking for new devices
+00:03:55.586 : [inp] Looking for new devices
+00:03:58.586 : [inp] Looking for new devices
+00:04:01.603 : [inp] Looking for new devices
+00:04:04.620 : [inp] Looking for new devices
+00:04:07.620 : [inp] Looking for new devices
+00:04:10.620 : [inp] Looking for new devices
+00:04:13.620 : [inp] Looking for new devices
+00:04:16.620 : [inp] Looking for new devices
+00:04:19.253 : Wizard skipped.
+00:04:19.637 : [inp] Looking for new devices
+00:04:19.686 : game
+00:04:19.854 : [bullet] Starting physics server: Bullet
+00:04:19.991 : Loaded trailers: 109
+00:04:20.001 : Loaded traffic trailers of type 'truck_semi': 22
+00:04:20.002 : Loaded traffic trailers of type 'truck_long': 0
+00:04:20.003 : Loaded traffic trailers of type 'train_cargo': 6
+00:04:20.004 : Loaded traffic trailers of type 'car': 2
+00:04:20.005 : Loaded traffic trailers of type 'bus': 0
+00:04:20.006 : Loaded traffic trailers of type 'truck': 0
+00:04:20.007 : Loaded traffic trailers of type 'tram': 0
+00:04:20.008 : Loaded traffic trailers of type 'train': 7
+00:04:20.011 : Loaded traffic trailers of type 'custom': 23
+00:04:20.022 : Loaded traffic vehicles of type 'car': 78
+00:04:20.022 : Loaded traffic vehicles of type 'car_city': 0
+00:04:20.025 : Loaded traffic vehicles of type 'car_custom': 30
+00:04:20.033 : Loaded traffic vehicles of type 'truck': 43
+00:04:20.036 : Loaded traffic vehicles of type 'truck_light': 12
+00:04:20.038 : Loaded traffic vehicles of type 'truck_medium': 3
+00:04:20.039 : Loaded traffic vehicles of type 'truck_long': 0
+00:04:20.040 : Loaded traffic vehicles of type 'truck_city': 4
+00:04:20.042 : Loaded traffic vehicles of type 'truck_custom': 3
+00:04:20.043 : Loaded traffic vehicles of type 'bus': 6
+00:04:20.044 : Loaded traffic vehicles of type 'bus_city': 0
+00:04:20.045 : Loaded traffic vehicles of type 'bus_custom': 0
+00:04:20.046 : Loaded traffic vehicles of type 'tram': 0
+00:04:20.047 : Loaded traffic vehicles of type 'train': 3
+00:04:20.048 : Loaded traffic vehicles of type 'train_wire': 5
+00:04:20.052 : Loaded traffic vehicles of type 'police': 35
+00:04:20.054 : Loaded traffic vehicles of type 'fire': 21
+00:04:20.056 : Loaded traffic vehicles of type 'medical': 17
+00:04:20.057 : Loaded traffic vehicles of type 'escort_front': 1
+00:04:20.059 : Loaded traffic vehicles of type 'escort_back': 1
+00:04:20.060 : Loaded traffic vehicles of type 'custom': 7
+00:04:20.077 : Loaded addon hookups: 148
+00:04:20.079 : Loading resource server data ....
+00:04:20.079 : Loading vegetation data ....
+00:04:20.090 : Loading traffic rule data ....
+00:04:20.091 : Loading traffic semaphore data ....
+00:04:20.094 : Loading road data ....
+00:04:20.100 : Loading terrain data ....
+00:04:20.171 : Loading railing data ....
+00:04:20.172 : Loading building data ....
+00:04:20.187 : Loading model data ....
+00:04:20.207 : Loading animated models ....
+00:04:20.228 : Loading prefab data ....
+00:04:22.336 : Loading sign data ....
+00:04:22.370 : Loading sign template data ....
+00:04:22.387 : Loading city data ....
+00:04:22.401 : Loading country data ....
+00:04:22.416 : Linking cities with countries ....
+00:04:22.417 : Loading stamp data ....
+00:04:22.419 : Loading sound item reverbs ....
+00:04:22.420 : Loading sound item data ....
+00:04:22.421 : Loading sound ambient ....
+00:04:22.421 : Loading live stream data ....
+00:04:22.421 : Loading movers data ....
+00:04:24.490 : Loading ferry data ....
+00:04:24.504 : Loading hinges data ....
+00:04:24.515 : Loading trigger action data ....
+00:04:24.516 : Loading cutscene data ....
+00:04:24.527 : Loading routes data ....
+00:04:24.528 : Loading overrides ....
+00:04:24.530 : Loading cargo data ....
+00:04:24.583 : Loading company cargo data ....
+00:04:24.847 : Loading unlock data ....
+00:04:25.051 : Map '/map/europe.mbd' loading started ....
+00:04:25.638 : <WARNING> Unable to find 'city.kaliningrad' for 'City' 0x2738E91C4BC10001
+00:04:25.661 : <WARNING> Unable to find 'city.suzzara' for 'City' 0x7A0AF909BEB0000
+00:04:25.707 : <WARNING> Unable to find 'city.parma' for 'City' 0x7794BF639BB0001
+00:04:25.709 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBD9C7A870000
+00:04:25.735 : <WARNING> Unable to find 'city.genova' for 'City' 0x76E9D6BFB9B0001
+00:04:25.739 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FADE0DFC70000
+00:04:25.739 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB09CD0470000
+00:04:25.739 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FB21CE5070000
+00:04:25.739 : <WARNING> Unable to find 'city.olbia' for 'City' 0x2C4FBC04BE870000
+00:04:25.740 : <WARNING> Unable to find 'city.bonifacio' for 'City' 0x2F99EB34DD070001
+00:04:25.767 : <WARNING> Unable to find 'city.sassari' for 'City' 0x2C4FACBCDD070000
+00:04:26.039 : <ERROR> Missing data for ferry item! (ferry.portotorres, uid: 0x2FEEFBFCC9C70001)
+00:04:26.043 : Map base sectors successfully loaded.
+00:04:26.048 : Map loaded
+00:04:26.068 : Loading save '/steam/profiles/626963696369/save/autosave/game.sii'
+00:04:26.179 : Route data generation started.
+00:04:26.291 : Route data generation finished.
+00:04:26.305 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'std_low.volvo.fh16_2012.interior' (of type 'accessory_interior_data').
+00:04:26.310 : Economy reset - save version changed, assuming map mismatch
+00:04:27.142 : Sector force started.
+00:04:27.195 : Sector force finished.
+00:04:28.001 : [actor] Initialized at [4820.6;27.0;30020.4]
+00:04:28.015 : Road network navigation caching started.
+00:04:29.502 : Garage update started.
+00:04:29.550 : Garage update finished.
+00:04:29.738 : [actor] Initialized at [4820.6;27.0;30020.4]
+00:04:29.739 : Incompatible save loaded. Respawning player truck in safe location...
+00:04:29.739 : [actor] Teleported from [4820.6;27.4;30020.4] to [4815.3;27.8;30016.3]
+00:04:30.349 : Incompatible save game loaded.
+00:04:48.921 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'exclusive.volvo.fh16.interior' (of type 'accessory_interior_data').
+00:04:48.988 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'excl_mid.mercedes.actros2014.interior' (of type 'accessory_interior_data').
+00:04:49.054 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'highroof.mercedes.actros.interior' (of type 'accessory_interior_data').
+00:04:49.121 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'exclusive.daf.xf.interior' (of type 'accessory_interior_data').
+00:04:49.121 : <WARNING> Ignoring obsolete attribute 'wheel_anim_max' of unit 'exclusive.daf.xf.interior' (of type 'accessory_interior_data').
+00:04:49.187 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'std_21_h.renault.t.interior' (of type 'accessory_interior_data').
+00:04:58.891 : Creating save-game file (/steam/profiles/626963696369/save/autosave_job_9/game.sii) ...
+00:04:58.933 : Sector force started.
+00:04:59.027 : Sector force finished.
+00:04:59.363 : [actor] Initialized at [-8001.6;36.0;17423.4]
+00:04:59.501 : Forcing sector data!
+00:04:59.502 : Sector force started.
+00:04:59.855 : Sector force finished.
+00:05:07.905 : [detour] Detour generation started at item: 0x361183C0070A014A
+00:05:07.906 : [detour] Detour generated. Road count: 1, compound count: 1
+00:05:07.906 : [detour] Valid detour found. Road count: 1, compound count: 1
+00:11:04.637 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_6/game.sii) ...
+00:16:04.653 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_7/game.sii) ...
+00:17:03.820 : <WARNING> [traffic] Unable to determine speed limit for speed camera at [-5022.2;37.3;8622.6]
+00:21:04.669 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_8/game.sii) ...
+00:26:04.685 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_9/game.sii) ...
+00:27:24.619 : Nothing to activate
+00:27:24.634 : Nothing to activate
+00:27:24.651 : Nothing to activate
+00:27:24.667 : Nothing to activate
+00:27:24.684 : Nothing to activate
+00:27:24.701 : Nothing to activate
+00:27:24.718 : Nothing to activate
+00:27:24.734 : Nothing to activate
+00:31:14.267 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive/game.sii) ...
+00:31:30.917 : Nothing to activate
+00:31:30.933 : Nothing to activate
+00:31:30.950 : Nothing to activate
+00:31:30.966 : Nothing to activate
+00:31:30.983 : Nothing to activate
+00:31:31.000 : Nothing to activate
+00:31:31.016 : Nothing to activate
+00:31:31.034 : Nothing to activate
+00:31:31.217 : Nothing to activate
+00:31:31.233 : Nothing to activate
+00:31:31.250 : Nothing to activate
+00:31:31.267 : Nothing to activate
+00:31:31.283 : Nothing to activate
+00:31:47.647 : Sector force started.
+00:31:47.689 : Sector force finished.
+00:31:47.820 : [actor] Initialized at [4815.3;27.4;30016.3]
+00:31:47.826 : Creating save-game file (/steam/profiles/626963696369/save/autosave/game.sii) ...
+00:33:01.299 : <WARNING> Ignoring obsolete attribute 'wheel_anim' of unit 'normal.scania.streamline.interior' (of type 'accessory_interior_data').
+00:34:03.775 : Forcing sector data!
+00:34:03.775 : Sector force started.
+00:34:04.011 : Sector force finished.
+00:34:43.735 : [trigger] Handled action (Parking HUD activation (auto reset))
+00:34:54.767 : [trigger] Reset action (Parking HUD activation (auto reset))
+00:36:30.481 : Creating save-game file (/steam/profiles/626963696369/save/autosave_job/game.sii) ...
+00:39:16.432 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_1/game.sii) ...
+00:41:53.817 : [trigger] Handled action (*Tollgate start (override hookups))
+00:41:53.817 : [trigger] Handled action (*Tollgate start (override hookups))
+00:41:53.817 : [trigger] Handled action (*Tollgate start (override hookups))
+00:41:53.817 : [trigger] Handled action (*Tollgate start (override hookups))
+00:42:01.383 : [tollgate] Activated 'start' tollgate
+00:42:01.383 : [gate_trigger] Activated gate trigger at [3800.9;24.6;30365.0]
+00:42:01.383 : Nothing to activate
+00:42:01.398 : Nothing to activate
+00:42:01.464 : Nothing to activate
+00:42:01.482 : Nothing to activate
+00:44:16.447 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_2/game.sii) ...
+00:49:16.464 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_3/game.sii) ...
+00:50:12.982 : [trigger] Handled action ([custom] command: 'toll_end' params: 'end' 0.218 )
+00:50:12.982 : [trigger] Handled action ([custom] command: 'toll_end' params: 'end' 0.218 )
+00:50:12.982 : [trigger] Handled action ([custom] command: 'toll_end' params: 'end' 0.218 )
+00:50:12.982 : [trigger] Handled action ([custom] command: 'toll_end' params: 'end' 0.218 )
+00:50:12.982 : [trigger] Handled action ([custom] command: 'toll_end' params: 'end' 0.218 )
+00:50:14.281 : [tollgate] Activated 'end' tollgate
+00:50:14.281 : [gate_trigger] Activated gate trigger at [-5522.5;65.4;28127.7]
+00:54:16.479 : Creating save-game file (/steam/profiles/626963696369/save/autosave_drive_4/game.sii) ...
+00:56:56.996 : Creating save-game file (/steam/profiles/626963696369/save/autosave/game.sii) ...
+00:59:02.259 : quit
+00:59:02.259 : Creating save-game file (/steam/profiles/626963696369/save/autosave/game.sii) ...
+00:59:02.284 : [MP] Session closing.
+00:59:02.284 : [MP] Session closed.
+00:59:02.420 : [sound] Sound library - shutdown.
+00:59:02.420 : [sound] Sound system - shutdown.
+00:59:02.771 : [sound] FMOD libraries released.
+00:59:03.515 : [gfx] NVAPI unloaded
+00:59:03.523 : [net]  LOG INFO: Stopped
+00:59:03.524 : [hashfs] dlc_winter.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_volvo_tuning_pack.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_volvo_construction.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_vikings.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_valentine.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_trailers.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_toys.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_super_stripes.scs: Unmounted.
+00:59:03.524 : [hashfs] dlc_space.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_rims.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_raven.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_pirates.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_pink_ribbon.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_pcg.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_oversize.scs: Unmounted.
+00:59:03.525 : [hashfs] dlc_nature.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_michelin.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_metallics.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_lunar_new_year.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_krone.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_hs_schoch.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:59:03.526 : [hashfs] dlc_halloween.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_goodyear.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:59:03.527 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:59:03.528 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:59:03.529 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_bg.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_dragon.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_daf_2021.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_christmas.scs: Unmounted.
+00:59:03.530 : [hashfs] dlc_actros_tuning.scs: Unmounted.
+00:59:03.531 : [hashfs] base_cfg.scs: Unmounted.
+00:59:03.531 : [hashfs] locale.scs: Unmounted.
+00:59:03.531 : [hashfs] def.scs: Unmounted.
+00:59:03.531 : [hashfs] core.scs: Unmounted.
+00:59:03.531 : [hashfs] base.scs: Unmounted.
+00:59:03.532 : [hashfs] effect.scs: Unmounted.
+00:59:04.443 : [sys] Process manager shutdown.
